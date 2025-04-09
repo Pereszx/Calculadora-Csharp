@@ -1,0 +1,14 @@
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora C#\bin\Debug\net9.0\Calculadora C#.exe
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora C#\bin\Debug\net9.0\Calculadora C#.deps.json
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora C#\bin\Debug\net9.0\Calculadora C#.runtimeconfig.json
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora C#\bin\Debug\net9.0\Calculadora C#.dll
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora C#\bin\Debug\net9.0\Calculadora C#.pdb
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora C#\obj\Debug\net9.0\Calculadora C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora C#\obj\Debug\net9.0\Calculadora C#.AssemblyInfoInputs.cache
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora C#\obj\Debug\net9.0\Calculadora C#.AssemblyInfo.cs
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora C#\obj\Debug\net9.0\Calculadora C#.csproj.CoreCompileInputs.cache
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora C#\obj\Debug\net9.0\Calculadora C#.dll
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora C#\obj\Debug\net9.0\refint\Calculadora C#.dll
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora C#\obj\Debug\net9.0\Calculadora C#.pdb
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora C#\obj\Debug\net9.0\Calculadora C#.genruntimeconfig.cache
+C:\Users\kauap\OneDrive\Área de Trabalho\projetos\Calculadora C#\obj\Debug\net9.0\ref\Calculadora C#.dll
