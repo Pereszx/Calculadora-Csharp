@@ -1,4 +1,4 @@
-Calculadora em C# 📟
+Calculadora em C# 📟 <br/>
 Uma calculadora simples em C# que realiza operações básicas e permite múltiplos cálculos sem fechar o programa.
 
 Funcionalidades ⚙️
